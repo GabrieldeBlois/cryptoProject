@@ -1,8 +1,12 @@
-# GraphsAndMatching
-EPITECH course crypto
+# CRYPTO - 1
+EPITECH crypto-1 course 
+
+## Authors:
+- Gabriel de Blois  - gabriel.de-blois@epitech.eu
+- Thibaut Artis - thibaut.artis@epitech.eu
 
 ## Project goal
-decipher several challenges
+Decrypt several challenges
 
 ## See the results
 You do not need to install anything to view the results, all of them are pushed on github, and it supports notebooks natively. So the results can be reviewed directly on github
